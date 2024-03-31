@@ -26,4 +26,11 @@ $link-decoration: none;
 
 $enable-negative-margins: true;
 
+// Disable the default grid system
+$enable-grid-classes: false;
+
+// Enable CSS Grid
+$enable-cssgrid: true;
+
+
 @import "bootstrap/scss/bootstrap";
